@@ -1,0 +1,627 @@
+{
+  "photos": [
+    {
+      "id": "p01",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.02 AM.jpeg",
+      "width": 2268,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASoUACQAPu1wr1EppqQiqqgBMB2JQBg5u4AQfxif56Cjzp4Lv4v/37sh6vrgLBv3mPJAA4AA/qpvsllVqElmTOYGwqKzT5ClYTtZHUvyZBxMHsQhVfApJhHHr/UFM2Vc73dutUSl5+FetF3Cps+ZZ9oEB2ggz8fJRLJ7/t6tdLhGAu5Ou+w9yftUw97Ewc1sOBW7wKd/XYnq2g4mJVx+uJRfReUzps3+/qqTtKR+p6KjovcA5v+KKev796Qy9LlZqPLsyBIVEl32rN+dhQnalv6EiNiFgYUsgjHqu2VOYqAXdo8UmYJ1HhYnQDQy+f6YoSF8oAAA",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p01-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p01-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p01-1600.webp"
+        },
+        {
+          "w": 2268,
+          "src": "media/photos/p01-2268.webp"
+        }
+      ],
+      "fallback": "media/photos/p01-1600.jpg"
+    },
+    {
+      "id": "p02",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.02 AM(1).jpeg",
+      "width": 1162,
+      "height": 961,
+      "cropped": true,
+      "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADQBACdASoUABEAPu1mq08ppaOiKA1RMB2JQBYj5l77MAANhuDp2dW+a9+58PziAAD0RKatXD2JQhzRCWlx1vLAg0U9VuaGVP5zPxYraZYlrTcYVj50Oe8v/n/5+mXnjR/7HdxFRGKwMNwy12rziH0XAVighDL/QxIup6PY5XkRxxPmwjCAoyrYZNEXxZF8gE9qGJ6fQF7WqoAGRAcHPrQ7pVQQW3OuEkvXu4tEVP9zYDgr0AA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p02-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p02-960.webp"
+        },
+        {
+          "w": 1162,
+          "src": "media/photos/p02-1162.webp"
+        }
+      ],
+      "fallback": "media/photos/p02-1162.jpg"
+    },
+    {
+      "id": "p03",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.02 AM(2).jpeg",
+      "width": 4032,
+      "height": 3024,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBACdASoUAA8APu1iqU2ppaOiMAgBMB2JQBOmUAS1wvImrTmNATLQvCoAAP7qhMxa1YvT5TfaVo9p8z18uXzmWqC6AbSl4g7A0lHUKWiBJAqdgGZSzprjH4qBXhBfUUuyLXl0dn9QmlfnaMmzmzbL2c9++oQ5TV9OakPQaPOaeGrA/dRzV7VPESwoQAAA",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p03-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p03-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p03-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p03-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p03-1600.jpg"
+    },
+    {
+      "id": "p04",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.02 AM(3).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADwBACdASoUABsAPu1qr1AppaSiqAqpMB2JZQC7ADBSH8SujBilW0aYNPlUzkFKiNAA/u/MHzkRcK1FVxgKbUcw8SXVXjXAo0rA3gxtuQYF1NkSH7ZhQlUci6fr3w8iLhuT3OYd4HBElzzrQ4k0llODsxhOxxjvBdmchHgwU5pxmMglQAV82NpsukMTdq5heJQvKqb3uozAekX3zUx4FXYKTOcocqjAAAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p04-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p04-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p04-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p04-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p04-1600.jpg"
+    },
+    {
+      "id": "p05",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.02 AM(4).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQBQCdASoUABsAPu1eq02ppKQiMBgMATAdiWUAxiRMRKms+cNDfieyMfiO54j/lV8D1cAA/vNzzh4tdvKNwLgB0TUMYHoH5mr/E/qd+l8Em8vzyWkzE+u6vmixLtx0OnA9siIJC3d/Cj5Jdd01Cfe0zBzyugTvduC32xA1a4g+QxG7ZGDEhru1rI6n1Gv7AgBObQAA",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p05-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p05-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p05-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p05-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p05-1600.jpg"
+    },
+    {
+      "id": "p06",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.02 AM(5).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwBgCdASoUABsAPu1qr1AppaSiqAqpMB2JbACdMyYBYRGKoAJUVnCnj+Jgb9C0Zx59RNySph9++HAAAP7JFmL02fuejW7W3PWT2DoIpajDUVhPIJ5WYLvyt3zN4M4v1g6X5wYXL/SX7lsrIfDgjdAWW6eDuITN/FqRQo1zfapHNjdauoQsKpVZJ9mMOTV/zD/CjV0donCK9ETsD42elvva0cTLeJy3wkrZYEsrEQLJ7EMq/tz4qijvVmo8aKb7WG5lZZhw+FslAR5nMSjjKQeAf/3H37IShqcHjZ6MfD4CnlW86favbUFqCg9/23bH7doXc7xVwAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p06-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p06-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p06-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p06-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p06-1600.jpg"
+    },
+    {
+      "id": "p07",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.02 AM(6).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADwBQCdASoUABsAPu1sq1EppaOiqAqpMB2JagCdIDaDvTV4f0zHmyKR51dQHyhmdMsPjyZAcOTy4AD+atYwsTplcwYVM2XrHSLy9/VUjNqwGzwr47h3wimmFPfWpfwGrf4TGiIYmy3nBgUqdpKsh0NgzKm1QLVgqMBTq0qInMUez/X5JWOApNzNLbMarGvAfjoEJXoBebBkXqPk6qNUI6mDEBvsiNRxEFmstaAdzKxDFEpc7psee4edPpS92WxSfEI9X1k1AwK9rG445SiGsDlpQ/ftrHOAcH9sjkVhc6ItAq02kJ7DkbiwlSaqWsGfeB3OTHOgOAAAAA==",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p07-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p07-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p07-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p07-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p07-1600.jpg"
+    },
+    {
+      "id": "p08",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.02 AM(7).jpeg",
+      "width": 4032,
+      "height": 3024,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoUAA8APu1iqU2ppaOiMAgBMB2JQBYhpABFW/fNgSfP/T6ZALAAAP7jS9WWM7R8mVsZK17s5ukGijoXlkX/GK3CZsAfECJl5Ytu2sshxYWFhIesEPzqoDI6oPEYywThIey9dsW4QcmvJob6d7Hc0kKvGHD5CWkJhgs4xzTenFOlOanniGDyKPT8z5YOCBLAAAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p08-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p08-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p08-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p08-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p08-1600.jpg"
+    },
+    {
+      "id": "p09",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM.jpeg",
+      "width": 2062,
+      "height": 3664,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBgCdASoUACQAPu1oqE+ppiOiKrgN+TAdiWIAsR8TQNh8y1ovi8988S8TO2cLFbOTDtjvJ0FapCn4AP7PFn/R6Emie0WHUyZMUddCpISGpEAlKuGoE0PJC7LRz93A5i7aVlw7Kt8sJxVxLZu6Ho2OAr9yblqu9et7xXKURRiG2b/bh6yW7l7vFik1+K5py+zzr9gR3fx1t+NM8yvvNuE4OC0BsOe+A95CRXmotWL8ck7e2kXUIRn0aOfwUmAZVwAAAA==",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p09-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p09-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p09-1600.webp"
+        },
+        {
+          "w": 2062,
+          "src": "media/photos/p09-2062.webp"
+        }
+      ],
+      "fallback": "media/photos/p09-1600.jpg"
+    },
+    {
+      "id": "p10",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM(1).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAQBQCdASoUABsAPu1qqFAppiOiqA1RMB2JQBOmW0gof4SPi+sgdLxwFVII39EyQel4AP6iYR+R2JpycTA8mVT1uCq3NZrgS3Ai3a0uWFwuy50Qrd28uTfyrHeGTQkRlDLBwxJ9BMzI0C1Xd+WfRaD6Zj7K1PRdyUjbmXhx8JaCwa4Ecuy+sOXdAnjA3Hh6HsPmqY4v/VJrZMKBH45HD78PCwDtW8Cj6SLUdLCGS4YlMBWTxppGt6UEAAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p10-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p10-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p10-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p10-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p10-1600.jpg"
+    },
+    {
+      "id": "p11",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM(2).jpeg",
+      "width": 960,
+      "height": 1280,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBQCdASoUABsAPu1qrlCppaQiqAqpMB2JYgCdAywAgLX3c5y3/eVFfZoHGw+ffPsAAPQnlECZ2wvNyzw7Uy1fdcMNA7Mj15DaLxWZfkVm7RNP4TJkNU8ppFi06GzkM91EbkKaBaAx8jdHwl3gdCoI1Ss8F/6Kyfw1vXDaMsj0IK/kmlw2m3VvtlH02/N9m6QCVFD0344/dRPsWfamGXse79/AzDXRRx2WjbZY0oAFTwdlOXYAAA==",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p11-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p11-960.webp"
+        }
+      ],
+      "fallback": "media/photos/p11-960.jpg"
+    },
+    {
+      "id": "p12",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM(3).jpeg",
+      "width": 1284,
+      "height": 2704,
+      "cropped": true,
+      "placeholder": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASoUACoAPu1qqlAppiOiqqoBMB2JYwDFC75B4tYPbQVEg6X9K792D/7ppDcmznrbqqPDMAD9ICXggU6DdRqKcFIvibOpVbCq2zeuB6lbdUvOI7CMtKmEho8F3yhYteKfXUGm9OrWM3c7VpdNzoFjFshdVbScEcB6juUavmgEsiV59hACpmMjGxBW9NlAQ0ZRUKaMm6JyEBUI3fSrASOw41NyHbfFCslYKhZSHHwFqMgy8zQEbnfMz6vgDdo4YSPiOx6otLuzmM9z5VimjK996fMEY2Fj01RoG5outttZrTQOQc6AAAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p12-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p12-960.webp"
+        },
+        {
+          "w": 1284,
+          "src": "media/photos/p12-1284.webp"
+        }
+      ],
+      "fallback": "media/photos/p12-1284.jpg"
+    },
+    {
+      "id": "p13",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM(4).jpeg",
+      "width": 2316,
+      "height": 3088,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAADwBgCdASoUABsAPu1srVCppiQiqAqpMB2JYgCnNO74Y+OV4CaCCftZni6gIVv84XlzkMWB3/N92l49dUNHrwgAAP6O/DE/MwJJcGUUxy/YYRMh4t30XpzGmBzT9GZYxPRZOwxUTDvzrA/xOEimOY3eZ2OttjGSWL8lJp+TFQBWM6QPtYHQelk8j+Az32chnOlRzQWdATZC1pzaKhMHOw+TIKMzQ+86+2ytpHKsplA2IZiQ+m0bCeAn9tvw+SwpVCesi7dbBavsdFzImdEZ4Ks1Zg+m4GB7NID61dr40+dqMJ7GiVPFxI8hf2P9wAAA",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p13-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p13-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p13-1600.webp"
+        },
+        {
+          "w": 2316,
+          "src": "media/photos/p13-2316.webp"
+        }
+      ],
+      "fallback": "media/photos/p13-1600.jpg"
+    },
+    {
+      "id": "p14",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM(5).jpeg",
+      "width": 1284,
+      "height": 1111,
+      "cropped": true,
+      "placeholder": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADwBACdASoUABEAPu1urlIppiQiqAgBMB2JQBbZO6MLiRVBbMaVsEq5y9RvMaDcBDgA/iUMYjGj7IFz9SZ6lUf3MzAimAGF5B19rX7GpKa5rI5d6cUej8qV+kjiUa/Mrd9q2GY6wiw7Lkp8zqr8137FxMhdi9XE7FiVC2IO59Lc0CQyIHnU7EFyeMIvKrrjIF+iM3BmdLIowdDzOeqT4mwQAAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p14-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p14-960.webp"
+        },
+        {
+          "w": 1284,
+          "src": "media/photos/p14-1284.webp"
+        }
+      ],
+      "fallback": "media/photos/p14-1284.jpg"
+    },
+    {
+      "id": "p15",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM(6).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAwBQCdASoUABsAPu1orVCppaQiqAqpMB2JaACdMt+HAhA3yebJixQlb1B5rNq9bfWiAAD+r2nHn7gRK9CM+rdtE7GJvF+3exjzE//WKxVk5Qz1mr2nQHq5nx3x/4/mD2IaeUD12wSWmGEatUCPKSmm20pxm3foygvlg+5tQWZ5naiX6c2XmefewbgoUV7m98z7LwbFtlWwFiOGvQlN7ee0Ar+LPjtRjSjwtN4JbzXSBHkhb7X+XiH8kSmcwHNe5SL0sJrMtGtTjwAZO2eWKVRCcZhxpXtM3bTpvZL3J0gAAA==",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p15-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p15-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p15-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p15-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p15-1600.jpg"
+    },
+    {
+      "id": "p16",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM(7).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAABQBgCdASoUABsAPu1mq0+ppSOiMBgIATAdiWYAwPzY3AFg975BbJFYZngcQbpkeJZzWGZ4t/2HGH/8AAD+7zCj6zv3taSreQ4JQTIUoonEkpOHmu9rppI77ht/zUl+EukHzSHAQ+TtW4Qj+O5BhXxY1KuKGo7AkqVlgvysU/INgYnM+BK4lv0Y+N4T9H+LHVkyzVvx5+UmLcvxtYUNWAC5H8Bp+9klsLAyEdkJ6ENq6Rnma4IKUSQON1uFOywwbHQTG1jIRZ+pkRgoAN8+8cr+GSLuskPSyuVHDqDP8lhH8psbNfp04dTV6G7sXF9sFh4V0dwl8f9nSZrRWPNJfi3JIAAAAA==",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p16-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p16-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p16-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p16-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p16-1600.jpg"
+    },
+    {
+      "id": "p17",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.03 AM(8).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBQCdASoUABsAPu1mqU2ppaQiMAgBMB2JYwC7ABuaAaaojoKYuH30qZjlu6Fq8JMwAAD+WpD0pwxw2HqglwmMGyw//bKbVj/M+pvRuSTjG+LuHty9Ipk81M0gyoejNpAHV2OUVCD62WhvIURwngA7RmAsuseueAEbjldGbi7PdkS+sabFRQxgOZclgN4VKtVud37dB6nwbDngoU5P3VE4fmoNScpfX8myh/yZ+dGHfvQAAAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p17-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p17-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p17-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p17-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p17-1600.jpg"
+    },
+    {
+      "id": "p18",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.04 AM.jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAAAwBQCdASoUABsAPu1mpU2ppaMiMBgMATAdiWQAsOw0bNeVQjUcvjGdAK5YOPucERjkAAD+8p3er9X9hOTRjcTBA7zRQ2eu1sESvgtqgD2rTaBepjWR0CTn8bbMWrsAhyvVmn1vSjZov/V7lmS7g3O+OB8DdL9NHEkyAluXxc33/y9sUJjNZEfL6kYiAw10KGMx5QCVubo07/E9FV+5u1hygXVPUxlOkvAWd8qyuGeVNXaLPzYCprHH2iblr9+nMVaMZ0PfFVZfIWPDnTIegtAA",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p18-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p18-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p18-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p18-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p18-1600.jpg"
+    },
+    {
+      "id": "p19",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.04 AM(1).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABQBQCdASoUABsAPu1oqk8ppiOiMBgIATAdiUAVgAIcx/OkmwFMIiZ7crQ+BGxKeLM8PAAA/uxOM4qe0mSpbrWKFqbF5qH2km46tf4lH/fvNFiqpF57deabnh1dzv8rNVlwOtkOsoPxTsCV7hJpQaHXr8UN6eTROkqQ5lbPCJotkFyzjQ6hR6jqp5p4r1Vjyzu7dNF8tIinFxWaz5Zm1iSipV0/xt5ycusHfdjJwf5f6knd9ERUgj7lQ7INbdl8yUvORq7aNQf9ubWZzZgAI8aQAAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p19-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p19-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p19-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p19-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p19-1600.jpg"
+    },
+    {
+      "id": "p20",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.04 AM(2).jpeg",
+      "width": 3024,
+      "height": 4032,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASoUABsAPu1or1AppaSiqAqpMB2JQBYdgeY8E9cPYz7JTsA+lvyzEXdZrMHWEADMg+qfHG94CL9EIZMjKa4PP5bG0J73FX1j9qhGs/dIgY7+RGRDQWXvSvZv3Sf4ZRXtfVLuA4RranyE/6jdwcVelY5CXwBlskAuHODEOAkdZozwRtBiBVWpvSNrC1YWgL/5p7/UFsajkTfS7ZfQ1O/DJQ/4LR1OWGUFDqfZkDa6+1YCvpaqJfPZuVGTsrayMGtSJ3HuSV3ooxE1tZRhvJjxGfI1JDkJjX8xPafkgBtfoMWzQEawXPqjTrwAAAA=",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p20-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p20-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p20-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p20-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p20-1600.jpg"
+    },
+    {
+      "id": "p21",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.04 AM(3).jpeg",
+      "width": 2316,
+      "height": 3088,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAAAQBgCdASoUABsAPu1iq1AppSOisBgIATAdiWQArCCa+wOf/APE7U2Z1ofNkE8zxfH9m8P75Ww7ewAA/ujQGx7GPUc9i0pxJIjXB2DONJxgthaJikdl/FNLC645GQYX+2eGN0T0IKlk+loJJJum2AbliamKTthtOxtAHFcdR5J1sshlUsU229/hoMzv54O9gxvm8vnElBjWnSyKpRa3S6anaF/F4/X1Cbw6Xsgt0e5/37qAS9NJrKi3+nB4Cf6EqibL4DvwsH6QowZ4bCwIJO+68eWpoNsRKPjfbacJNPqTAAAA",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p21-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p21-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p21-1600.webp"
+        },
+        {
+          "w": 2316,
+          "src": "media/photos/p21-2316.webp"
+        }
+      ],
+      "fallback": "media/photos/p21-1600.jpg"
+    },
+    {
+      "id": "p22",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.04 AM(4).jpeg",
+      "width": 3120,
+      "height": 4160,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAACwBQCdASoUABsAPu1sqk8ppqOiMBgIATAdiUAX6xsUGcSfpYtbwETstLyqItlhzntVtb7JcAAA/t+4+MKVSrvKokNoB31iRUyxea8TUZurMCzeWXTF3S3sxC3Yy3Xi2BAtiGhMwwDm4qIC2uyFo4A8/dYThGqxlm46J/bAGe61T0M4IJcyJUimLxa2hqUIj3rp+YGYuv99sC1Gc24XHY0xKrA90LMa1fIsT/2tq2XjObKYQiRQF2NQE2s6Pmh/ichn8OdGCJ9oUmD7KRk3QNhbR6wCxy023ixEU+KSXCLb8gDl9mHAAA==",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p22-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p22-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p22-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p22-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p22-1600.jpg"
+    },
+    {
+      "id": "p23",
+      "source": "WhatsApp Image 2026-11-10 at 12.17.04 AM(5).jpeg",
+      "width": 3120,
+      "height": 4160,
+      "cropped": false,
+      "placeholder": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAAAwBQCdASoUABsAPu1qrVCppaQiqAqpMB2JagCdABEdsbQPYxGBsvGCGdc8lOA+f6StMAD3o/gC6DM82u1NVVqeL9o+nvnuNT12a+wSFWYX6AeAyni3exv/DJ8zZZociZRZe3jzHxzgPFnWxrBbmbMon3hgPUDF9MJoSq4AHxgBZyGYBepjPNaGxbiClncDLYnaWuxT+sWzq6WAdrsBCFVMMqtPasURJ23UNe67zpgpxitMxXxHE2JIoJYaMRfqYd03ophuYAAAAA==",
+      "srcset": [
+        {
+          "w": 480,
+          "src": "media/photos/p23-480.webp"
+        },
+        {
+          "w": 960,
+          "src": "media/photos/p23-960.webp"
+        },
+        {
+          "w": 1600,
+          "src": "media/photos/p23-1600.webp"
+        },
+        {
+          "w": 2400,
+          "src": "media/photos/p23-2400.webp"
+        }
+      ],
+      "fallback": "media/photos/p23-1600.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "v01",
+      "source": "WhatsApp Video 2026-11-10 at 12.17.04 AM.mp4",
+      "src": "media/videos/v01.mp4",
+      "type": "video/mp4",
+      "poster": "media/videos/v01-poster.webp",
+      "frames": [
+        "media/videos/v01-frame-0.webp",
+        "media/videos/v01-frame-1.webp",
+        "media/videos/v01-frame-2.webp",
+        "media/videos/v01-frame-3.webp",
+        "media/videos/v01-frame-4.webp",
+        "media/videos/v01-frame-5.webp",
+        "media/videos/v01-frame-6.webp",
+        "media/videos/v01-frame-7.webp"
+      ],
+      "width": 352,
+      "height": 464,
+      "duration": 7.938322
+    }
+  ]
+}

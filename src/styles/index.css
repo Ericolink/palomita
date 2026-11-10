@@ -1,0 +1,177 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-cream: #f8f2ea;
+  --color-paper: #fffcf7;
+  --color-sand: #efe4d6;
+  --color-blush: #f2dcd6;
+  --color-rose: #dfb3ad;
+  --color-wine: #7b2234;
+  --color-wine-deep: #3f111c;
+  --color-ink: #3b2b2d;
+  --color-muted: #87716f;
+
+  --font-serif: 'Cormorant Garamond', 'Times New Roman', serif;
+  --font-sans: 'Manrope', system-ui, sans-serif;
+  --font-hand: 'Caveat', cursive;
+
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Textura de papel muy sutil sobre toda la página */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 60;
+    opacity: 0.05;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .3 0 0 0 0 .2 0 0 0 0 .2 0 0 0 1 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  ::selection {
+    background: var(--color-blush);
+    color: var(--color-wine-deep);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-wine);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--color-wine);
+  }
+
+  .display {
+    font-family: var(--font-serif);
+    font-weight: 500;
+    line-height: 0.95;
+    letter-spacing: -0.01em;
+  }
+
+  /* Foto impresa: borde blanco y sombra suave */
+  .print {
+    background: var(--color-paper);
+    padding: 0.6rem 0.6rem 2.4rem;
+    box-shadow:
+      0 1px 2px rgb(59 43 45 / 0.08),
+      0 12px 30px -12px rgb(59 43 45 / 0.35);
+  }
+
+  /* Cinta adhesiva tipo washi */
+  .tape {
+    position: absolute;
+    width: 5.5rem;
+    height: 1.6rem;
+    background: rgb(223 179 173 / 0.55);
+    backdrop-filter: blur(1px);
+    box-shadow: 0 1px 2px rgb(0 0 0 / 0.06);
+    mask-image: linear-gradient(90deg, transparent 0 3px, #000 3px calc(100% - 3px), transparent calc(100% - 3px));
+  }
+
+  .arch {
+    border-radius: 999px 999px 1.25rem 1.25rem;
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 1.75rem;
+    border-radius: 999px;
+    background: var(--color-wine);
+    color: var(--color-paper);
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    transition:
+      background-color 0.4s var(--ease-soft),
+      transform 0.4s var(--ease-soft),
+      box-shadow 0.4s var(--ease-soft);
+    box-shadow: 0 10px 30px -12px rgb(123 34 52 / 0.6);
+  }
+  .btn-primary:hover {
+    background: var(--color-wine-deep);
+    transform: translateY(-2px);
+  }
+
+  .icon-btn {
+    display: grid;
+    place-items: center;
+    width: 2.9rem;
+    height: 2.9rem;
+    border-radius: 999px;
+    background: rgb(255 252 247 / 0.85);
+    backdrop-filter: blur(10px);
+    color: var(--color-wine);
+    border: 1px solid rgb(123 34 52 / 0.15);
+    box-shadow: 0 8px 24px -12px rgb(59 43 45 / 0.4);
+    transition:
+      transform 0.3s var(--ease-soft),
+      background-color 0.3s;
+  }
+  .icon-btn:hover {
+    transform: translateY(-2px);
+    background: var(--color-paper);
+  }
+}
+
+/* Tira de película en movimiento */
+@keyframes film-roll {
+  to {
+    transform: translateX(-50%);
+  }
+}
+.film-roll {
+  animation: film-roll 40s linear infinite;
+}
+
+.sprockets {
+  background-image: radial-gradient(circle, rgb(248 242 234 / 0.75) 0 40%, transparent 42%);
+  background-size: 22px 10px;
+  background-repeat: repeat-x;
+}
+
+/* Ecualizador del botón de música */
+@keyframes eq {
+  0%, 100% { transform: scaleY(0.3); }
+  50% { transform: scaleY(1); }
+}
+.eq-bar {
+  transform-origin: bottom;
+  animation: eq 0.9s ease-in-out infinite;
+}

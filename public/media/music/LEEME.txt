@@ -1,0 +1,5 @@
+Música de fondo (opcional)
+==========================
+Coloca aquí un archivo de audio llamado "cancion.mp3" (o cambia la ruta en
+src/content/config.ts → music.src). Si el archivo no existe, el botón de música
+simplemente no aparece. La música nunca se reproduce sin que el visitante pulse el botón.
